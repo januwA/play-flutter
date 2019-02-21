@@ -56,6 +56,7 @@ samples, guidance on mobile development, and a full API reference.
 
   ### [ThemeData 配置app主题颜色](https://docs.flutter.io/flutter/material/ThemeData-class.html) 
   ### [colors 色卡](https://docs.flutter.io/flutter/material/Colors-class.html)
+  ### [使用icon](https://design.google.com/icons/)
 
 资源：
   - [在Flutter中构建布局](https://flutterchina.club/tutorials/layout/)
